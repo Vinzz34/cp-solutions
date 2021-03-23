@@ -1,1 +1,1 @@
-Best codeforces solutions and important solutions by Vinzz.
+Best codeforces solutions and important solutions by Vinzz34.
