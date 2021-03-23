@@ -15,7 +15,7 @@ using namespace std;
 #define FOR(a,b,c) for(int a=b;a<(int)(c);a++)
 #define MOD 1000000007
 #define EACH(v) for(auto x : v)
-#define VINZZ
+#define VINZ
 
 int main(){
 	ios::sync_with_stdio(false);
@@ -53,7 +53,7 @@ int main(){
 	else{
 		cout<<"right"<<endl;
 	}
-	#ifdef VINZZ
+	#ifdef VINZ
 	    cerr<<"Time: "<<1.0*clock()/CLOCKS_PER_SEC<<"s.\n";
 	#endif
 	return 0;
