@@ -1,1 +1,1 @@
-Best codeforces solutions and important solutions by Vinzz.
+Competitive programming solutions(Codeforces).
